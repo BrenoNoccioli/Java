@@ -1,13 +1,13 @@
 
-public class Funcionario {
+public abstract class Funcionario {
 	
 	private String nome;
 	private String cpf;
 	private double salario;
 	
-	public double getBonificacao() {
-		return this.salario * 0.05;
-	}
+	//metodo sem corpo - nao há implementação - metodo apenas conceitual que será implementado nos filhos
+	//coloca-se um metodo abstrato em uma classe mae e obriga os filhos a implementarem
+	public abstract double getBonificacao();
 	
 	public String getNome() {
 		return nome;
