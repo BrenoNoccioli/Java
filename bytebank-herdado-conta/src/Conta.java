@@ -6,7 +6,7 @@ public abstract class Conta {
 	private int agencia;
 	private int numero;
 	private Cliente titular;
-	private static int total;
+	private static int total = 0;
 	
 	//construtor
 	public Conta(int agencia, int numero){
@@ -16,9 +16,7 @@ public abstract class Conta {
 		this.numero = numero;
 		//this.saldo = 100;
 		//System.out.println("estou criando uma conta " + this.numero);
-		 
 	}
-	
 	
 	public abstract void deposita(double valor);
 	
