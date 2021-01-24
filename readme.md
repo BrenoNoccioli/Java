@@ -1,18 +1,37 @@
-#Markdown
-#h1 Desafio Stone
+Desafio Stone
 
-#h2 Descrição
-Projeto realizado como solução para o Teste Técnico do Programa de Formação em Elixir da Stone.
+Descrição
+Projeto realizado como solução para o teste técnico do Programa de Formação em Elixir da Stone.
 
-#h2 Pré-requisitos
-Para executar o programa é necessário utilizar a versão 8 do Java ou superior.
-Solicitamos a execução na IDE Java de sua preferência (Eclipse, IntelliJ).
+Pré-requisitos
+Para executar o programa, é necessário utilizar o Java 8 ou superior. Utilize a IDE Java de sua preferência (recomendo o Eclipse).
 
-#h2 Descrição
-O programa recebe uma lista de compra de produtos com valor unitário e quantidade de cada item, e uma lista de e-mails (pessoas). Após receber as duas listas, calcula o valor total da compra e divide igualmente (apenas valores inteiros) para cada email.
-Os métodos ... gerarListaItemAleatoria() ... e ... gerarListaEmailAleatoria() ... , quando executados sem parâmetros, retornam listas com valores e tamanhos aleatórios; para definir um tamanho exato para uma lista (inclusive 0 - lista vazia) basta passar a quantidade desejada como parâmetro do respectivo método.
-Para executar o programa, importe o projeto para um diretório de sua preferência, abra-o em sua IDE preferida e execute a classe Desafio.java.
+O projeto
+O programa recebe uma lista de compra de itens, calcula o valor total da compra e o divide por uma quantidade definida de pessoas (representadas por e-mails), respeitando sempre valores inteiros – ou seja, para uma compra no valor de 100 que será dividida entre três pessoas, duas pagarão 33 e uma 34.
 
-#h2 Autoria
-Breno Nogueira Botelho Noccioli - desenvolvedor web Full-stack.
+Narrativa técnica
+As classes “Item” e “Email” definem os atributos e métodos dos objetos trabalhados.
+As classes “GeraListaItens” e “GeraListaEmails” constroem listas com valores aleatórios e tamanhos que podem ser aleatórios ou não (basta definir o parâmetro na execução do método).
+A classe “Calcula” implementa o método que, ao receber as duas listas (de itens e e-mails), calcula o valor total da compra e o divide igualmente entre os e-mails, retornando um Map em que a chave é o e-mail e o valor correspondente ao preço a ser pago individualmente pela compra.
+A classe “Desafio” é onde o programa é de fato executado. Nela instanciamos um List para cada lista a ser gerada (para tamanhos aleatórios de lista execute o método sem parâmetro; para definir um tamanho parta a lista, passe o valor desejado como parâmetro do respectivo método).
 
+Rodando o Programa
+1.	Baixe o arquivo do programa para a sua máquina no diretório de sua preferência;
+2.	Baixe em sua máquina a IDE Java de sua preferência (recomendo o Eclipse);
+3.	Para o Eclipse:
+3.1.	Abra o projeto em seu workspace, clicando em File  Open Projects from File System...:
+  
+
+3.2.	Escolha o diretório em que está o projeto clicando em Directory e depois Finish:
+ 
+
+3.3.	Com o projeto aberto em seu workspace, acesse o arquivo “Desafio.java” em desafio-stone  src  desafio  Desafio.java:
+ 
+
+3.4.	Com o arquivo aberto, clique em Run (botão verde de “play” na barra superior):
+ 
+3.5.	O resultado deve aparecer no console, mostrando uma lista de produtos com nome, preço unitário, quantidade e total por produto, o total da compra, o total de e-mails (pessoas) e quanto cada um deve pagar:
+ 
+
+Autoria
+Breno Noccioli - desenvolvedor full stack.
