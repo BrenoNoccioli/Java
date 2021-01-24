@@ -1,6 +1,6 @@
 Desafio Stone
 
-Descrição
+<h1>Descrição</h1>
 Projeto realizado como solução para o teste técnico do Programa de Formação em Elixir da Stone.
 
 Pré-requisitos
