@@ -21,7 +21,7 @@ A classe “Desafio” é onde o programa é de fato executado. Nela instanciamo
 <p>3.	Para o Eclipse:</p>
 
 <p>3.1.	Abra o projeto em seu workspace, clicando em File --> Open Projects from File System...:</p>
-![1](https://user-images.githubusercontent.com/62861521/105642325-e154b700-5e67-11eb-8f45-fb2320b4f175.png)
+<img src="https://user-images.githubusercontent.com/62861521/105642325-e154b700-5e67-11eb-8f45-fb2320b4f175.png">
 
 <p>3.2.	Escolha o diretório em que está o projeto clicando em Directory e depois Finish:</p>
  
