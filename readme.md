@@ -20,13 +20,13 @@ A classe “Desafio” é onde o programa é de fato executado. Nela instanciamo
 <p>2.	Baixe em sua máquina a IDE Java de sua preferência (recomendo o Eclipse);</p>
 <p>3.	Para o Eclipse:</p>
 
-3.1.	Abra o projeto em seu workspace, clicando em File  Open Projects from File System...:
-<img src="C:\Users\Proevento\Pictures\imagensReadme">
+3.1.	Abra o projeto em seu workspace, clicando em File --> Open Projects from File System...:
+<img src="https://drive.google.com/file/d/1dvEVfdyUpTtRytkgJxi64uOZmgN9E3Gy/view?usp=sharing">
 
 3.2.	Escolha o diretório em que está o projeto clicando em Directory e depois Finish:
  
 
-3.3.	Com o projeto aberto em seu workspace, acesse o arquivo “Desafio.java” em desafio-stone  src  desafio  Desafio.java:
+3.3.	Com o projeto aberto em seu workspace, acesse o arquivo “Desafio.java” em desafio-stone --> src --> desafio --> Desafio.java:
  
 
 3.4.	Com o arquivo aberto, clique em Run (botão verde de “play” na barra superior):
