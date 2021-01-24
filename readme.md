@@ -21,7 +21,7 @@ A classe “Desafio” é onde o programa é de fato executado. Nela instanciamo
 <p>3.	Para o Eclipse:</p>
 
 <p>3.1.	Abra o projeto em seu workspace, clicando em File --> Open Projects from File System...:
-<img src="https://drive.google.com/file/d/1dvEVfdyUpTtRytkgJxi64uOZmgN9E3Gy/view?usp=sharing"></p>
+<img src="C:\Users\Proevento\Pictures\imagensReadme\1.png"></p>
 
 <p>3.2.	Escolha o diretório em que está o projeto clicando em Directory e depois Finish:</p>
  
