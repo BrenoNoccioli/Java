@@ -33,6 +33,7 @@ A classe “Desafio” é onde o programa é de fato executado. Nela instanciamo
 <img src="https://user-images.githubusercontent.com/62861521/105642471-adc65c80-5e68-11eb-9710-ae1159555934.png">
 
 <p>3.5.	O resultado deve aparecer no console, mostrando uma lista de produtos com nome, preço unitário, quantidade e total por produto, o total da compra, o total de e-mails (pessoas) e quanto cada um deve pagar:</p>
+<img src="https://user-images.githubusercontent.com/62861521/105642485-c59de080-5e68-11eb-9689-0cf9c2578630.png">
 
 <h2>Autoria</h2>
 Breno Noccioli - desenvolvedor full stack.
