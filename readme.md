@@ -24,6 +24,7 @@ A classe “Desafio” é onde o programa é de fato executado. Nela instanciamo
 <img src="https://user-images.githubusercontent.com/62861521/105642325-e154b700-5e67-11eb-8f45-fb2320b4f175.png">
 
 <p>3.2.	Escolha o diretório em que está o projeto clicando em Directory e depois Finish:</p>
+<img src="https://user-images.githubusercontent.com/62861521/105642429-66d86700-5e68-11eb-96d4-ab1d6915832b.png">
  
 <p>3.3.	Com o projeto aberto em seu workspace, acesse o arquivo “Desafio.java” em desafio-stone --> src --> desafio --> Desafio.java:</p>
 
