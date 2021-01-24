@@ -16,9 +16,9 @@ A classe “Calcula” implementa o método que, ao receber as duas listas (de i
 A classe “Desafio” é onde o programa é de fato executado. Nela instanciamos um List para cada lista a ser gerada (para tamanhos aleatórios de lista execute o método sem parâmetro; para definir um tamanho parta a lista, passe o valor desejado como parâmetro do respectivo método).
 
 <h2>Rodando o Programa</h2>
-1.	Baixe o arquivo do programa para a sua máquina no diretório de sua preferência;
-2.	Baixe em sua máquina a IDE Java de sua preferência (recomendo o Eclipse);
-3.	Para o Eclipse:
+<p>1.	Baixe o arquivo do programa para a sua máquina no diretório de sua preferência;</p>
+<p>2.	Baixe em sua máquina a IDE Java de sua preferência (recomendo o Eclipse);</p>
+<p>3.	Para o Eclipse:</p>
 3.1.	Abra o projeto em seu workspace, clicando em File  Open Projects from File System...:
   
 
