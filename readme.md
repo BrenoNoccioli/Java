@@ -19,6 +19,7 @@ A classe “Desafio” é onde o programa é de fato executado. Nela instanciamo
 <p>1.	Baixe o arquivo do programa para a sua máquina no diretório de sua preferência;</p>
 <p>2.	Baixe em sua máquina a IDE Java de sua preferência (recomendo o Eclipse);</p>
 <p>3.	Para o Eclipse:</p>
+
 3.1.	Abra o projeto em seu workspace, clicando em File  Open Projects from File System...:
   
 
