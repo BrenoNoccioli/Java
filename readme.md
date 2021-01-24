@@ -16,25 +16,20 @@ A classe “Calcula” implementa o método que, ao receber as duas listas (de i
 A classe “Desafio” é onde o programa é de fato executado. Nela instanciamos um List para cada lista a ser gerada (para tamanhos aleatórios de lista execute o método sem parâmetro; para definir um tamanho parta a lista, passe o valor desejado como parâmetro do respectivo método).
 
 <h2>Rodando o Programa</h2>
-1.	Baixe o arquivo do programa para a sua máquina no diretório de sua preferência;
- 
-2.	Baixe em sua máquina a IDE Java de sua preferência (recomendo o Eclipse);
+<p>1.	Baixe o arquivo do programa para a sua máquina no diretório de sua preferência;</p>
+<p>2.	Baixe em sua máquina a IDE Java de sua preferência (recomendo o Eclipse);</p>
+<p>3.	Para o Eclipse:</p>
 
-3.	Para o Eclipse:
+<p>3.1.	Abra o projeto em seu workspace, clicando em File --> Open Projects from File System...:
+<img src="https://drive.google.com/file/d/1dvEVfdyUpTtRytkgJxi64uOZmgN9E3Gy/view?usp=sharing"></p>
 
- 3.1.	Abra o projeto em seu workspace, clicando em File --> Open Projects from File System...:
-<img src="https://drive.google.com/file/d/1dvEVfdyUpTtRytkgJxi64uOZmgN9E3Gy/view?usp=sharing">
+<p>3.2.	Escolha o diretório em que está o projeto clicando em Directory e depois Finish:</p>
+ 
+<p>3.3.	Com o projeto aberto em seu workspace, acesse o arquivo “Desafio.java” em desafio-stone --> src --> desafio --> Desafio.java:</p>
 
- 3.2.	Escolha o diretório em que está o projeto clicando em Directory e depois Finish:
- 
+<p>3.4.	Com o arquivo aberto, clique em Run (botão verde de “play” na barra superior):</p>
 
- 3.3.	Com o projeto aberto em seu workspace, acesse o arquivo “Desafio.java” em desafio-stone --> src --> desafio --> Desafio.java:
- 
-
- 3.4.	Com o arquivo aberto, clique em Run (botão verde de “play” na barra superior):
- 
- 3.5.	O resultado deve aparecer no console, mostrando uma lista de produtos com nome, preço unitário, quantidade e total por produto, o total da compra, o total de e-mails (pessoas) e quanto cada um deve pagar:
- 
+<p>3.5.	O resultado deve aparecer no console, mostrando uma lista de produtos com nome, preço unitário, quantidade e total por produto, o total da compra, o total de e-mails (pessoas) e quanto cada um deve pagar:</p>
 
 <h2>Autoria</h2>
 Breno Noccioli - desenvolvedor full stack.
