@@ -34,7 +34,7 @@ public class Exercicios01_estruturas_sequenciais {
 		
 		/*03. Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
 		de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).*/
-		
+		/*
 		int A, B, C, D;
 		A = sc.nextInt();
 		B = sc.nextInt();
@@ -42,6 +42,7 @@ public class Exercicios01_estruturas_sequenciais {
 		D = sc.nextInt();
 		int diferenca = (A * B - C * D);
 		System.out.println("DIFERENÇA = " + diferenca);
+		*/
 		
 		/*04. Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por
 		hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas
@@ -62,6 +63,8 @@ public class Exercicios01_estruturas_sequenciais {
 		System.out.println("Matrícula: " + matricula);
 		System.out.println("Salario = R$" + salario);
 		*/
+		
+		
 		sc.close();
 		
 	}
